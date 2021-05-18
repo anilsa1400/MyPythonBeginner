@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "internalConsole",
             "cwd": "${fileDirname}",
-            "stopOnEntry": true
+            "stopOnEntry": false
         }
     ]
 }
